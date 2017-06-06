@@ -14,7 +14,7 @@ http://host:port/api/atms/city/{city} - retrives list of ATMs located in city.
 
 Technical details
 
-This application is built using Maven, Java (jdk 1.8), Spring Boot, Spring Security, Apache Camel.
+This application is built using Maven, Java, Spring Boot, Spring Security, Apache Camel.
 
 Build application
 
